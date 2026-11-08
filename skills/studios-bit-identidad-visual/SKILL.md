@@ -1,6 +1,6 @@
 ---
 name: studios-bit-identidad-visual
-description: Estrategia e identidad de marca, logotipos, paletas, tipografía, sistemas visuales, dirección de arte y aplicaciones digitales originales para clientes.
+description: Estrategia e identidad de marca, logotipos, paletas, tipografía, sistemas visuales, dirección de arte y aplicaciones digitales originales para clientes. Úsala cuando se pida un logo, paleta, tipografía, manual de marca o dirección de arte.
 ---
 
 # Identidad visual y branding

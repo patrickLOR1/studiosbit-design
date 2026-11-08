@@ -1,4 +1,4 @@
-# Catálogo — treinta referencias Studios.Bit
+# Catálogo — referencias SB-01 a SB-10 (y enlace a SB-11 en adelante)
 **Origen:** diez referencias iniciales del 05-nov-2026 y veinte referencias adicionales del 06-nov-2026, procedentes de grabaciones MP4 de contenidos de terceros proporcionadas por el usuario. No son trabajos de Studios.Bit ni evidencia de conversión.
 
 **SB-11 a SB-30:** consultar [fichas completas del nuevo lote](LOTE_2026-11-06_SB11_SB30.md), con análisis de diseño, contenido y procesos.
@@ -8,49 +8,49 @@
 - **Aprovechar:** revelado horizontal, sensación física y fichas de proyectos navegables.
 - **Uso:** futura sección Proyectos o Reel de presentación de caso.
 - **Evitar:** pérdida de control, links ocultos y scroll forzado.
-- Fotograma local: `frames/reference_10.15.03_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.15.03_AM.jpg`).
 
 ## SB-02 — 10.19.46 | Acentos de color
 - **Observado:** demostración de interfaces neutras con un color de acento.
 - **Aprovechar:** contraste y función semántica del naranja oficial #FF6A00.
 - **Uso:** reglas de CTA y contenido educativo de diseño.
 - **Evitar:** colorear todo, contraste insuficiente o usar únicamente color para indicar estado.
-- Fotograma local: `frames/reference_10.19.46_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.19.46_AM.jpg`).
 
 ## SB-03 — 10.23.05 | Interfaz 3D iluminada
 - **Observado:** sitio oscuro con aro tridimensional y luz morada.
 - **Aprovechar:** profundidad, foco visual, iluminación y movimiento suave (adaptar a naranja).
 - **Uso:** hero conceptual o demo de producto, nunca reemplazo automático del hero aprobado.
 - **Evitar:** gran carga 3D, CTA oculto y recursos pesados.
-- Fotograma local: `frames/reference_10.23.05_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.23.05_AM.jpg`).
 
 ## SB-04 — 10.23.08 | Corrigiendo sitios IA
 - **Observado:** creador explica problemas en interfaces y da contexto visual.
 - **Aprovechar:** diagnóstico concreto → razonamiento → solución demostrada.
 - **Uso:** serie Bit Audit 30–45 s.
 - **Evitar:** difamación, falta de fundamento y confundir ejemplos con clientes.
-- Fotograma local: `frames/reference_10.23.08_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.23.08_AM.jpg`).
 
 ## SB-05 — 10.23.11 | Galería expansiva
 - **Observado:** mosaico de fotos B/N que se compacta y expande en lienzo blanco.
 - **Aprovechar:** espacialidad, descubrimiento, jerarquía editorial.
 - **Uso:** futura galería de portafolio o video del proceso.
 - **Evitar:** controles ausentes, pérdida de foco y dependencia exclusiva del mouse.
-- Fotograma local: `frames/reference_10.23.11_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.23.11_AM.jpg`).
 
 ## SB-06 — 10.23.15 | Nike Halloween
 - **Observado:** cancha temática, caja, interacción contextual y 3D audiovisual.
 - **Aprovechar:** relación entre narrativa temática y respuesta a acciones.
 - **Uso:** campaña conceptual aislada, con prueba móvil.
 - **Evitar:** copiar marca/assets, simular cliente y experiencia pesada.
-- Fotograma local: `frames/reference_10.23.15_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.23.15_AM.jpg`).
 
 ## SB-07 — 10.23.18 | Museo digital
 - **Observado:** pasillo digital, cuadros, tipografía monumental, zoom y transiciones de cámara.
 - **Aprovechar:** narrativa secuencial, escala, dramatismo editorial.
 - **Uso:** estudio de caso o reel de identidad visual.
 - **Evitar:** ilegibilidad, mareo y tiempos de carga elevados.
-- Fotograma local: `frames/reference_10.23.18_AM.jpg`.
+- Fotograma: privado, no incluido en el repositorio público (`reference_10.23.18_AM.jpg`).
 
 
 ## SB-08 — WhatsApp 2026-11-05 11.57.02 | «Stop designing the same boring hero sections»
@@ -82,7 +82,7 @@
 - **Para contenido:** Reel con tesis inicial («un buen portafolio cuenta una historia») → demostración rápida de interacción → trayectoria y proyectos → aprendizaje y CTA. Ver `CONTENIDO_Y_FORMATOS.md`.
 - **Rendimiento/accesibilidad:** animaciones rápidas y reversibles, controles convencionales disponibles, navegación por teclado, diseño móvil y reduced-motion; evitar scroll-jacking, retrasos y pérdida de orientación.
 - **Legal y credibilidad:** no copiar activos, fotos, puertas, composiciones o música ni presentar la web del video como trabajo nuestro. Rotular demos propios como «Proyecto conceptual».
-- **Referencia visual privada:** `references/videos/SB-10_portfolio-narrativo.mp4`; fotogramas en `references/frames/` (fuera de GitHub).
+- **Referencia visual privada:** `references/videos/SB-10_portfolio-narrativo.mp4`; fotogramas privados, no incluidos en el repositorio público.
 - **Estado:** observado, pendiente de evaluación por proyecto.
 
 ## Plantilla para nueva referencia

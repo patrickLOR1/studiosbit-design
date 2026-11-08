@@ -1,6 +1,6 @@
 ---
 name: studios-bit-diseno-sitios-web
-description: Dirección y producción de landing pages, sitios corporativos, UI/UX, CMS, responsive y conversión basada en referencias SB de Studios.Bit, con identidad propia para cada cliente.
+description: Dirección y producción de landing pages, sitios corporativos, UI/UX, CMS, responsive y conversión basada en referencias SB de Studios.Bit, con identidad propia para cada cliente. Úsala cuando se pida diseñar, rediseñar o revisar una landing, sitio web, UI o prototipo.
 ---
 
 # Estudios web — Skill de diseño de sitios
