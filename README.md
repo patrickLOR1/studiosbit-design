@@ -1,67 +1,35 @@
-# Studios.Bit Design — Creative Direction
+# Studios.Bit Design — Biblioteca creativa para Codex
 
-**Skill independiente para Codex · versión 0.5 · 30 referencias (SB-01 a SB-30)**
+**Versión 0.6 · 35 referencias analizadas (SB-01 a SB-35) · 5 skills especializadas.**
 
-Una biblioteca práctica de **dirección creativa, diseño UI/UX, motion design, storytelling, contenido y procesos digitales** de Studios.Bit para proyectos futuros de distintos clientes.
+Repositorio independiente de **Studios.Bit** para diseño de sitios web, edición y diseño de video, microinteracciones, identidad visual y estrategia de contenido. La biblioteca se utiliza para planear y producir trabajo original de clientes **sin reutilizar literalmente obras de terceros**. No es la landing ni sustituye el brief del cliente.
 
-Cada cliente conserva su identidad, su manual de marca, sus objetivos y las condiciones aprobadas. Las referencias sirven para aprender técnicas y criterios, **no** para copiar proyectos de terceros.
+## Elige tu especialidad
 
-## Qué incluye
+| Necesitas | Skill de Codex | Contenidos |
+|---|---|---|
+| Landing, sitio corporativo, CMS, UI/UX, responsive, SEO técnico | [Diseño de sitios web](skills/diseno-sitios-web/SKILL.md) | Estructura, diseño, prototipos, conversión y QA |
+| Reels, TikTok, edición, motion de video, guion, carruseles | [Diseño de videos](skills/diseno-videos/SKILL.md) | Ganchos, secuencias, ritmo, subtítulos, formatos |
+| Navegaciones animadas, glow, scroll, GSAP, efectos | [Motion e interacciones](skills/motion-interacciones/SKILL.md) | Timing, accesibilidad y performance |
+| Branding, tipografía, paletas, dirección de arte | [Identidad visual](skills/identidad-visual/SKILL.md) | Sistemas de marca y adaptación a cada cliente |
+| Marketing de contenidos, posicionamiento, autoridad y procesos | [Estrategia de contenido](skills/estrategia-contenido/SKILL.md) | Pilares editoriales, evidencias, conversión |
+ 
+Consulta [Índice por categorías](references/INDICE_POR_CATEGORIA.md) y las [fichas SB-31 a SB-35](references/SB31_SB35.md). Los análisis históricos están en [SB-01–SB-10](references/REFERENCIAS.md) y [SB-11–SB-30](references/LOTE_2026-11-06_SB11_SB30.md); [contenido y formatos](references/CONTENIDO_Y_FORMATOS.md).
 
-- `SKILL.md`: reglas de dirección creativa reutilizables y flujo de trabajo en Codex.
-- `references/REFERENCIAS.md`: referencias SB-01 a SB-10.
-- `references/LOTE_2026-11-06_SB11_SB30.md`: referencias SB-11 a SB-30.
-- `references/CONTENIDO_Y_FORMATOS.md`: guiones, estructura y edición para Reels, TikTok, Instagram y Facebook.
-- `references/OPORTUNIDADES_SITIO.md`: backlog histórico de la propia web de Studios.Bit (no aplicable automáticamente a clientes).
-- `references/CHANGELOG.md`: versiones y criterios de evolución.
-- `AGENTS.example.md`: instrucciones opcionales para proyectos de clientes.
-- `scripts/install.ps1` y `scripts/update.ps1`: automatización para Windows.
+**Para usar en un nuevo proyecto:** ver [Instalación en Codex](docs/INSTALACION_CODEX.md). Estas skills no se instalan automáticamente en los demás repositorios. El archivo [AGENTS.md](AGENTS.md) orienta su selección cuando se trabaja dentro de esta biblioteca.
 
-## Instalación global en Codex (Windows / PowerShell)
+## Cómo agregamos referencias
 
-Abre PowerShell y ejecuta:
+1. Analizar el material suministrado **visualmente**; distinguir observación, hipótesis y afirmaciones no verificadas.
+2. Crear ficha SB-xx con fuente/fecha, patrón web, patrón de video, posible uso, riesgos y técnica original.
+3. Etiquetar una o varias categorías en el índice; no duplicar manuales enteros.
+4. Validar con el brief, dispositivos reales y alcance comercial de cada proyecto antes de convertirlo en regla.
+5. Actualizar `references/CHANGELOG.md` y versión si cambia el método.
 
-```powershell
-New-Item -ItemType Directory -Force "$HOME/.agents/skills" | Out-Null
-git clone https://github.com/patrickLOR1/studiosbit-design.git "$HOME/.agents/skills/studios-bit-creative-direction"
-```
+## Límites importantes
 
-**La skill está en la raíz del repositorio** (`SKILL.md`), por lo que esa ruta permite que Codex la encuentre sin copiarla a cada proyecto. Si el repositorio ya está clonado, ejecuta:
-
-```powershell
-git -C "$HOME/.agents/skills/studios-bit-creative-direction" pull --ff-only
-```
-
-También puedes clonar el repositorio en una carpeta temporal y ejecutar `./scripts/install.ps1` desde la carpeta clonada.
-
-**Uso en Codex:** solicita `$studios-bit-creative-direction` y describe el brief, los objetivos, la industria, los recursos disponibles y la marca del cliente. Reinicia una sesión de Codex si la skill no se reconoce inmediatamente.
-
-## Instalación global en macOS / Linux
-
-```bash
-mkdir -p ~/.agents/skills
-git clone https://github.com/patrickLOR1/studiosbit-design.git ~/.agents/skills/studios-bit-creative-direction
-# Para actualizar más adelante:
-git -C ~/.agents/skills/studios-bit-creative-direction pull --ff-only
-```
-
-## Para un proyecto en particular
-
-Si el proyecto necesita reglas contextuales propias, agrega al `AGENTS.md` del proyecto el bloque de `AGENTS.example.md`. La skill instalada globalmente no sustituye el brief, manual de marca ni los requisitos de ese proyecto.
-
-## Agregar nuevas referencias
-
-1. Usar el siguiente código consecutivo (**SB-31**, **SB-32**, etc.).
-2. Registrar fuente, fecha, observación visual verificable y límites del análisis (audio verificado o no).
-3. Analizar **dos planos**: diseño/interacción y narrativa/edición del contenido.
-4. Proponer adaptación original para clientes, con alternativa de accesibilidad y rendimiento.
-5. Actualizar `references/`, `SKILL.md` y `references/CHANGELOG.md`.
-6. Hacer `git pull --ff-only` en cada máquina que tenga instalada la skill.
-
-## Contenido de terceros y privacidad
-
-**No se incluyen los 30 videos ni sus fotogramas originales en este repositorio público.** Solo se publica análisis textual transformativo. No subir imágenes, clips, datos privados, identidades de clientes, credenciales ni contenido sin permiso.
-
-La habilidad ayuda a orientar el diseño; no constituye un modelo reentrenado ni garantiza resultados comerciales. Cualquier referencia visual y afirmación de terceros debe verificarse antes de aplicarse en un trabajo real.
-
-**Estado:** documentación reusable; no realiza modificaciones automáticas al sitio web ni a las funciones comerciales de ningún cliente.
+- **No publicar en este repositorio público los videos, música, renders, logotipos ni fotogramas de terceros**. Se documentan nombres de archivos privados para localizar el material autorizado en el equipo del usuario.
+- No atribuirse trabajos o resultados de los creadores de referencia. Etiquetar demos no entregadas como **Proyecto conceptual**.
+- La identidad Studios.Bit (negro #0B0B0D, blanco #F5F5F5, gris #9CA3AF, naranja #FF6A00, Manrope) aplica solo a la agencia. Los clientes tienen identidad propia.
+- No editar automáticamente producción, precios, privacidad, información fiscal, SEO o integraciones cuando la solicitud sea creativa.
+- No prometer resultados de marketing, IA o conversión sin pruebas.
