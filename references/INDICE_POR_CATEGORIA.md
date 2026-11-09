@@ -4,11 +4,11 @@ Los códigos SB identifican **referencias audiovisuales de terceros**, no entreg
 
 | Categoría | Referencias recomendadas | Cómo se aplican |
 |---|---|---|
-| **Diseño de sitios web y UI/UX** | SB-01,03,05,06,07,08,09,10,11,12,13,15,16,17,18,19,24,28,29,30,31,33,35 | Hero, estructura, storytelling, portafolio, CMS y conversión |
-| **Diseño/edición de videos y redes** | SB-04,08,10,11,12,13,14,16,17,19,22,23,25,26,27,29,30,31,32,33,34,35 | Ganchos, demostraciones, tutoriales, storyboard y edición |
-| **Motion, animación y microinteracciones** | SB-01,03,05,06,07,09,10,12,14,16,18,19,20,24,26,28,31,32,34 | Scroll, navegación, 3D, iluminación, sliders y transiciones |
-| **Branding e identidad visual** | SB-02,06,07,10,14,15,16,19,23,25,29,34 | Paleta, tipografía, posicionamiento y composiciones |
-| **Estrategia, herramientas y flujo comercial** | SB-04,08,17,20,21,22,25,27,30,33,35 | Metodología, prospección responsable, CMS, experimentación |
+| **Diseño de sitios web y UI/UX** | SB-01,03,05,06,07,08,09,10,11,12,13,15,16,17,18,19,24,28,29,30,31,33,35,36,38,39,40,41 | Hero, estructura, storytelling, portafolio, CMS y conversión |
+| **Diseño/edición de videos y redes** | SB-04,08,10,11,12,13,14,16,17,19,22,23,25,26,27,29,30,31,32,33,34,35,36,37,38,39,40,41 | Ganchos, demostraciones, tutoriales, storyboard y edición |
+| **Motion, animación y microinteracciones** | SB-01,03,05,06,07,09,10,12,14,16,18,19,20,24,26,28,31,32,34,36,37,39 | Scroll, navegación, 3D, iluminación, sliders y transiciones |
+| **Branding e identidad visual** | SB-02,06,07,10,14,15,16,19,23,25,29,34,39 | Paleta, tipografía, posicionamiento y composiciones |
+| **Estrategia, herramientas y flujo comercial** | SB-04,08,17,20,21,22,25,27,30,33,35,38,40,41 | Metodología, prospección responsable, CMS, experimentación |
 
 ## Dónde leer las fichas
 - [SB-01 a SB-10](REFERENCIAS.md) — referencias iniciales.
