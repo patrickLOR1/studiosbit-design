@@ -14,7 +14,7 @@ Repositorio independiente de **Studios.Bit** para diseño de sitios web, edició
 | Branding, tipografía, paletas, dirección de arte | [Identidad visual](skills/identidad-visual/SKILL.md) | Sistemas de marca y adaptación a cada cliente |
 | Marketing de contenidos, posicionamiento, autoridad y procesos | [Estrategia de contenido](skills/estrategia-contenido/SKILL.md) | Pilares editoriales, evidencias, conversión |
  
-Consulta [Índice por categorías](references/INDICE_POR_CATEGORIA.md) las [fichas SB-31 a SB-35](references/SB31_SB35.md) y las [fichas SB-36 a SB-41](references/SB36_SB41.md). Los análisis históricos están en [SB-01–SB-10](references/REFERENCIAS.md) y [SB-11–SB-30](references/LOTE_2026-11-06_SB11_SB30.md); [contenido y formatos](references/CONTENIDO_Y_FORMATOS.md).
+Consulta el [Índice por categorías](references/INDICE_POR_CATEGORIA.md), las [fichas SB-31 a SB-35](references/SB31_SB35.md) y las [fichas SB-36 a SB-41](references/SB36_SB41.md). Los análisis históricos están en [SB-01–SB-10](references/REFERENCIAS.md) y [SB-11–SB-30](references/LOTE_2026-11-06_SB11_SB30.md); [contenido y formatos](references/CONTENIDO_Y_FORMATOS.md).
 
 **Para usar en un nuevo proyecto:** ver [Instalación en Codex](docs/INSTALACION_CODEX.md). Estas skills no se instalan automáticamente en los demás repositorios. El archivo [AGENTS.md](AGENTS.md) orienta su selección cuando se trabaja dentro de esta biblioteca.
 
