@@ -16,6 +16,12 @@ Identificar marca, valores, audiencia, competencia, territorio gráfico, tono, u
 5. Entregar variantes, guía de uso y ejemplos de piezas con identidad consistente.
 6. Aprobar antes de adaptar a web, Reels o campañas.
 
+## Nuevos criterios SB-39 y SB-36
+- Crear rutas visuales propias basadas en el **territorio de marca**: una elección de tipografía, composición, color y ritmo, con justificación orientada a audiencia y uso.
+- La tipografía monumental y los contrastes intensos observados en SB-39 son recursos opcionales, no identidad por defecto; validar legibilidad móvil, contraste y consistencia.
+- SB-36 puede orientar el tratamiento editorial de una marca, sin adoptar sus escenas, productos o composiciones.
+- Fichas [SB-36 a SB-41](../../references/SB36_SB41.md).
+
 ## Referencias
 [Índice](../../references/INDICE_POR_CATEGORIA.md): SB-02,06,07,10,14,15,16,19,23,25,29,34 y otras con aplicación al brief.
 
