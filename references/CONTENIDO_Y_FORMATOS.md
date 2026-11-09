@@ -1,7 +1,7 @@
-# Estudios de contenido — Studios.Bit Creative Direction v0.5
+# Estudios de contenido — Studios.Bit Creative Direction v0.7
 
 ## Objetivo
-Usar **las treinta referencias SB-01 a SB-30** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
+Usar **las cuarenta y una referencias SB-01 a SB-41** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
 
 Estas referencias son materiales de terceros, no muestras del portafolio ni evidencia de clientes, facturación, conversiones o resultados de Studios.Bit. Extraer la **gramática de contenido**, nunca reproducir sus grabaciones, voz, música, marcas, personajes, logos ni composiciones literalmente. Los videos compartidos se revisaron visualmente; sin transcripción de audio verificada, no atribuir declaraciones habladas.
 
@@ -81,6 +81,18 @@ Las veinte fichas del 06-nov están en `LOTE_2026-11-06_SB11_SB30.md`. Cada una 
 - **Conversión:** CTA natural hacia asesoría/brief sin promesas de leads, ventas o rankings.
 - **Variedad:** alternar demostraciones visuales, auditorías, aprendizaje y detrás de cámaras; no convertir el feed en clones de un solo formato.
 - **Medición:** retención por segundo, visualizaciones cualificadas, guardados, clics y consultas; solo si existe analítica real.
+
+## Lote SB-36 a SB-41: seis ideas originales de contenido (9-nov-2026)
+| Ficha | Patrón educativo/demostrativo | Propuesta original |
+|---|---|---|
+| SB-36 | Recorrido editorial por scroll con foco en la narrativa | Reel: «Una landing puede contar una historia sin perder el CTA», usando tres pantallas originales |
+| SB-37 | Comparación visible de estados de navegación | Reel: «La diferencia entre una animación bonita y un indicador útil», con tab bar original y reduced motion |
+| SB-38 | Cambiar contenido sin tocar código | Demo propia de editar una reseña y publicar en CMS con permisos y preview; si no existe producto, rotular concepto |
+| SB-39 | Jerarquía de tipografía/color y movimiento | Reel: tres direcciones visuales para un mismo brief ficticio, justificando decisiones |
+| SB-40 | Hipótesis, variante y medición de conversión | Carrusel sobre cómo diseñar un A/B responsable; ningún incremento de resultados sin datos |
+| SB-41 | Validación de un flujo real, no solo apariencia | Video mostrando prueba E2E con datos sintéticos desde formulario hasta persistencia y recuperación de error |
+
+**Reglas del lote:** no extraer música, voces, clips, capturas, logos ni código del material original; los videos se inspeccionaron visualmente, sin transcripción de audio verificada. Priorizar evidencias de prototipos propios. Una herramienta mencionada por un tercero no es automáticamente una capacidad que Studios.Bit ofrece.
 
 ## Alcance de reutilización
 - Para la **cuenta de Studios.Bit**, usar su identidad aprobada.
