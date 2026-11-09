@@ -1,4 +1,4 @@
-# Índice maestro de 35 referencias — Estudios.Bit
+# Índice maestro de 41 referencias — Studios.Bit
 
 Los códigos SB identifican **referencias audiovisuales de terceros**, no entregas realizadas por Studios.Bit. Una referencia puede estar en más de una categoría; usa una skill por entregable principal y una complementaria cuando sea necesario.
 
@@ -14,6 +14,7 @@ Los códigos SB identifican **referencias audiovisuales de terceros**, no entreg
 - [SB-01 a SB-10](REFERENCIAS.md) — referencias iniciales.
 - [SB-11 a SB-30](LOTE_2026-11-06_SB11_SB30.md) — veinte referencias adicionales.
 - [SB-31 a SB-35](SB31_SB35.md) — cinco videos recibidos el 7-nov-2026.
+- [SB-36 a SB-41](SB36_SB41.md) — seis videos recibidos el 9-nov-2026 (motion, CMS, experimentación y QA).
 - [Contenido y formatos](CONTENIDO_Y_FORMATOS.md) — ganchos, edición y guiones originales.
 - [Oportunidades de la landing de Studios.Bit](OPORTUNIDADES_SITIO.md) — histórico, no orden de implementación.
 - [Historial](CHANGELOG.md).
