@@ -1,6 +1,6 @@
 ---
 name: studios-bit-estrategia-contenido
-description: Planeación de contenido orgánico, posicionamiento, autoridad, captación responsable, procesos de producción y validación de ofertas digitales para Studios.Bit y clientes.
+description: Planeación de contenido orgánico, posicionamiento, autoridad, captación responsable, procesos de producción y validación de ofertas digitales para Studios.Bit y clientes. Úsala cuando se pida un plan de contenido, calendario editorial, copy, captación o estrategia de redes.
 ---
 
 # Estrategia de contenido y marketing digital

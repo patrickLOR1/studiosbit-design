@@ -1,6 +1,6 @@
 ---
 name: studios-bit-motion-interacciones
-description: Diseño e implementación de motion web, microinteracciones, navegación animada, scroll storytelling y transiciones con enfoque en propósito, accesibilidad y rendimiento.
+description: Diseño e implementación de motion web, microinteracciones, navegación animada, scroll storytelling y transiciones con enfoque en propósito, accesibilidad y rendimiento. Úsala cuando se pidan animaciones web, microinteracciones, scroll animado o transiciones.
 ---
 
 # Motion e interacciones

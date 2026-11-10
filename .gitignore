@@ -1,0 +1,7 @@
+brand/
+references/frames/
+references/videos/
+frames/
+videos/
+*.mp4
+*.mov

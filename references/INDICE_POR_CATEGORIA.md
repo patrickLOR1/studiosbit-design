@@ -16,6 +16,7 @@ Los códigos SB identifican **referencias audiovisuales de terceros**, no entreg
 - [SB-31 a SB-35](SB31_SB35.md) — cinco videos recibidos el 7-nov-2026.
 - [Contenido y formatos](CONTENIDO_Y_FORMATOS.md) — ganchos, edición y guiones originales.
 - [Oportunidades de la landing de Studios.Bit](OPORTUNIDADES_SITIO.md) — histórico, no orden de implementación.
+- [Estilos usados](ESTILOS_USADOS.md) — registro para no repetir estilos de animación.
 - [Historial](CHANGELOG.md).
 
 **No existen los MP4 ni fotogramas originales en este repositorio público.** Para analizar más detalle de una pieza, solicitar el material privado al usuario. Nunca presentar referencias como trabajos propios.

@@ -1,7 +1,7 @@
-# Estudios de contenido — Studios.Bit Creative Direction v0.5
+# Estudios de contenido — Studios.Bit Creative Direction v0.6
 
 ## Objetivo
-Usar **las treinta referencias SB-01 a SB-30** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
+Usar **las referencias SB-01 a SB-35** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
 
 Estas referencias son materiales de terceros, no muestras del portafolio ni evidencia de clientes, facturación, conversiones o resultados de Studios.Bit. Extraer la **gramática de contenido**, nunca reproducir sus grabaciones, voz, música, marcas, personajes, logos ni composiciones literalmente. Los videos compartidos se revisaron visualmente; sin transcripción de audio verificada, no atribuir declaraciones habladas.
 
@@ -15,7 +15,7 @@ Estas referencias son materiales de terceros, no muestras del portafolio ni evid
 7. **Revisión:** revisar legibilidad sin audio, derechos, accesibilidad, ritmo y CTA. Publicar solo tras aprobación del canal/cliente.
 8. **Aprendizaje:** guardar gancho, formato, hipótesis y métricas comprobables de rendimiento; proponer ajustes sin atribuir causalidad a una sola publicación.
 
-## Qué aprendemos de cada video (30 referencias)
+## Qué aprendemos de cada video (SB-01 a SB-30; SB-31 a SB-35 en su ficha)
 | Referencia | Patrón de contenido | Pieza original recomendada |
 |---|---|---|
 | SB-01 | Mostrar un resultado editorial a través de una secuencia de páginas | Reel «Un portafolio también puede contar una historia», con demo propia |
