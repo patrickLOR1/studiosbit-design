@@ -34,6 +34,15 @@ description: Guion, dirección, grabación y edición de Reels, TikTok, Shorts y
 - **SB-53:** recorrido audiovisual de una web con video integrado y controles; todas las escenas/audio deben ser propios o licenciados.
 - Consultar [SB-42 a SB-54](../../references/SB42_SB54.md). Distinguir afirmación del creador, observación visual y resultado propio.
 
+## Refuerzo audiovisual SB-55 a SB-61
+- **SB-55:** antes/después propio con tres correcciones UI explicadas sin adoptar diseños del creador.
+- **SB-56:** tutorial de tres microinteracciones propias: gesto, feedback y estado final, con alternativa de movimiento reducido.
+- **SB-58:** microexplicación de datos de un dashboard, etiquetando simulaciones, período y fuente.
+- **SB-59:** mapa honesto de producción audiovisual y oportunidades de IA por validar, con revisión humana.
+- **SB-60:** narrativa de demostración: situación → trabajo del producto → decisión verificable, sin resultados comerciales ajenos.
+- **SB-61:** carrusel de conceptos originales rotulados «Proyecto conceptual» con valor didáctico real, no promesa de entregables existentes.
+- Fichas: [SB-55 a SB-61](../../references/SB55_SB61.md).
+
 ## Series originales de Studios.Bit
 - **Bit Audit:** problema observado → corrección conceptual real → por qué mejora UX (sin ridiculizar).
 - **1 Bit de Diseño:** principio → contraste antes/después propio → aplicación.
