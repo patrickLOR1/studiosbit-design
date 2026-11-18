@@ -5,6 +5,11 @@ description: Estrategia e identidad de marca, logotipos, paletas, tipografía, s
 
 # Identidad visual y branding
 
+## Fundamentos publicados (v0.9)
+- Antes de definir la dirección de un sistema digital, leer [fundamentos de diseño/UX](../../references/FUNDAMENTOS_DISENO_LITERATURA.md): modelos mentales y señales de Norman, heurísticas de Nielsen, tipografía responsive y arquitectura de información.
+- Definir tipografía por legibilidad, tono, escala y soporte; color por roles semánticos y contraste, nunca por tendencias sin brief.
+- Documentar qué es decisión creativa, qué es restricción medible y qué debe validarse con el cliente. Una paleta estética no equivale por sí sola a una experiencia accesible.
+
 ## Descubrimiento
 Identificar marca, valores, audiencia, competencia, territorio gráfico, tono, usos previstos y restricciones del cliente. Construir brief y moodboard curado sin copiar logotipos ni composiciones.
 

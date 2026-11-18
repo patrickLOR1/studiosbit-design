@@ -10,6 +10,11 @@ Los códigos SB identifican **referencias audiovisuales de terceros**, no entreg
 | **Branding e identidad visual** | SB-02,06,07,10,14,15,16,19,23,25,29,34,39,43,46,54,55,57,61 | Paleta, tipografía, posicionamiento y composiciones |
 | **Estrategia, herramientas y flujo comercial** | SB-04,08,17,20,21,22,25,27,30,33,35,38,40,41,42,45,47,50,51,52,58,59,60 | Metodología, prospección responsable, CMS, experimentación |
 
+## Fundamentos con fuentes (no son referencias SB)
+- [Diseño y UX: literatura, autores, accesibilidad y QA](FUNDAMENTOS_DISENO_LITERATURA.md) — Norman, Nielsen, arquitectura de información, diseño responsive, W3C, GOV.UK, rendimiento y SEO.
+- [Arquitectura web: principios, estructura, seguridad y documentación](ARQUITECTURA_WEB_GUIA.md) — Parnas, Fielding, W3C, SEI, C4, arc42, OWASP, ISO y Twelve-Factor.
+- [Skill de arquitectura web](../skills/arquitectura-web/SKILL.md) — aplicación según tipo y tamaño del nuevo proyecto.
+
 ## Dónde leer las fichas
 - [SB-01 a SB-10](REFERENCIAS.md) — referencias iniciales.
 - [SB-11 a SB-30](LOTE_2026-11-06_SB11_SB30.md) — veinte referencias adicionales.

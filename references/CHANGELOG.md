@@ -1,5 +1,12 @@
 # Evolución de la biblioteca
 
+## v0.9 — Literatura y arquitectura web para nuevos proyectos (2026-11-18)
+- Incorporada la sexta skill de Codex: **arquitectura web** para landing, sitio con CMS, aplicación transaccional, dashboard y telemetría.
+- Añadidas guías documentadas con fuentes originales y oficiales sobre UX, arquitectura de información, tipografía, responsive, modularidad, APIs, seguridad, accesibilidad, rendimiento y operación.
+- Separados estándares técnicos, heurísticas de investigación, guías de práctica y referencias visuales SB, evitando convertir consejos en normas o afirmar certificaciones inexistentes.
+- Integrada la consulta inicial en AGENTS.md, la skill de sitios, el índice y la guía de instalación. Las 61 referencias SB se conservan.
+- Solo documentación y skills; sin cambios a proyectos, precios, producción ni despliegues.
+
 ## v0.8 — Veinte referencias multidisciplinares (2026-11-18)
 - Agregadas SB-42 a SB-54 tras muestreo visual de trece videos: automatización editorial, UI con IA, demos de apps, ganchos, galerías, experimentación de Reels, sistemas visuales, retención ética, formularios, prototipos físicos, comercio electrónico, portafolios audiovisuales y paletas.
 - Documentación: [fichas SB-42 a SB-54](SB42_SB54.md) y [SB-55 a SB-61](SB55_SB61.md).

@@ -4,6 +4,11 @@
 La biblioteca se mantiene en `https://github.com/patrickLOR1/studiosbit-design`.
 Las skills están separadas en `skills/<nombre>/SKILL.md`; la existencia del repositorio **no** significa que Codex las descubra en todos los proyectos automáticamente.
 
+## Selección inicial para proyectos nuevos
+- Si el trabajo es **web** (landing, CMS, cotizador, dashboard o aplicación), cargar **arquitectura web + diseño de sitios** antes de codificar.
+- Leer referencias/FUNDAMENTOS_DISENO_LITERATURA.md y references/ARQUITECTURA_WEB_GUIA.md; escoger estándares y criterios adecuados al contexto.
+- Para tareas exclusivamente de video, branding o redes, usar la skill respectiva sin exigir un proyecto de arquitectura.
+
 ## Instalación por proyecto
 En el repositorio del cliente (o de la agencia) crea `.agents/skills/` y copia allí **solo las carpetas de las skills necesarias**, conservando el archivo `SKILL.md` de cada una.
 
@@ -21,9 +26,13 @@ En este ejemplo las rutas internas de las skills apuntan a `.agents/references`,
 
 Añade en el AGENTS.md del proyecto:
 ```md
-Para dirección creativa usa .agents/skills/diseno-sitios-web/SKILL.md (web),
-.agents/skills/diseno-videos/SKILL.md (audiovisual), o la skill correspondiente.
-Respetar siempre el brief y la marca del cliente. No copiar obras de referencia.
+Para proyectos web nuevos, activar juntas .agents/skills/arquitectura-web/SKILL.md
+ y .agents/skills/diseno-sitios-web/SKILL.md. Antes de implementar, leer
+ .agents/references/FUNDAMENTOS_DISENO_LITERATURA.md y
+ .agents/references/ARQUITECTURA_WEB_GUIA.md, y presentar sitemap, arquitectura
+ proporcional, datos e integraciones, seguridad, requisitos y plan de QA.
+ Para video/branding usar la skill pertinente. Respetar el brief y la marca.
+ No copiar obras ni desplegar sin permiso.
 ```
 
 ## Método

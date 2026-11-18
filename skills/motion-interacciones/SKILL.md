@@ -5,6 +5,11 @@ description: Diseño e implementación de motion web, microinteracciones, navega
 
 # Motion e interacciones
 
+## Literatura y accesibilidad (v0.9)
+- Consultar [fundamentos UX con fuentes](../../references/FUNDAMENTOS_DISENO_LITERATURA.md), en especial el feedback y la claridad de acción de Don Norman y las heurísticas de Jakob Nielsen.
+- Comprobar criterios aplicables de [WCAG 2.2](https://www.w3.org/TR/WCAG22/) y guías de teclado de [WAI APG](https://www.w3.org/WAI/ARIA/apg/). No basarse solo en hover ni en movimiento para comunicar significado.
+- Preservar estado y foco durante cada animación, control de pausa para medios relevantes, comportamiento equivalente con movimiento reducido y funcionalidad sin JavaScript cuando sea viable.
+
 ## Principios
 Usa animación para orientar, explicar o dar feedback; evita motion decorativo sin razón. Define disparador, duración, easing, interrupciones, sentido inverso, estados de foco, tactilidad, hover, reduced-motion, impacto JS y fallback sin JavaScript.
 

@@ -7,6 +7,10 @@ description: Guion, dirección, grabación y edición de Reels, TikTok, Shorts y
 
 **Ámbito:** idea → gancho → guion / storyboard → producción → edición → subtítulos → revisión → adaptación por red.
 
+## Cuando el video demuestra un producto digital (v0.9)
+- Usar [fundamentos UX con fuentes](../../references/FUNDAMENTOS_DISENO_LITERATURA.md) para ordenar información y mostrar estados reales de la interfaz. Aplicar las heurísticas como criterios editoriales, no como estudios propios.
+- Si se explica la construcción de una web, mostrar arquitectura proporcional conforme a [guía web](../../references/ARQUITECTURA_WEB_GUIA.md), sin atribuir seguridad, escalabilidad ni conversión a un mockup.
+
 ## Método por pieza
 1. **Objetivo y audiencia:** atención cualificada, confianza, autoridad, demostración o consulta. Evitar métricas vanidosas como único criterio.
 2. **Gancho visual y verbal** en los primeros segundos; una pregunta o tensión real, sin clickbait engañoso.

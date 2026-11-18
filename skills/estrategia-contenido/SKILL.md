@@ -5,6 +5,10 @@ description: Planeación de contenido orgánico, posicionamiento, autoridad, cap
 
 # Estrategia de contenido y marketing digital
 
+## Evidencia y diseño de comunicación (v0.9)
+- Cuando el contenido se use para vender un sitio, consultar [literatura de diseño y UX](../../references/FUNDAMENTOS_DISENO_LITERATURA.md) y [arquitectura web](../../references/ARQUITECTURA_WEB_GUIA.md) para explicar beneficios reales, no solo animaciones.
+- Diferenciar prácticas verificables (accesibilidad, QA y permisos) de hipótesis de marketing que necesitan experimentos; no prometer conversiones por citar autores.
+
 ## Diagnóstico
 Audiencia, segmento, oferta real, pruebas disponibles, objeciones, canales, presupuesto, capacidad de entrega, CTA y proceso de respuesta a consultas.
 

@@ -7,6 +7,13 @@ description: Dirección y producción de landing pages, sitios corporativos, UI/
 
 **Ámbito:** brief → arquitectura de información → jerarquía, wireframes → UI → prototipo → desarrollo → QA. Esta skill es para nuevos proyectos, **no** autoriza editar la landing de Studios.Bit.
 
+## Marco obligatorio de evidencia y arquitectura (v0.9)
+- **Antes de cualquier nuevo sitio**, coordinar con [Arquitectura web](../arquitectura-web/SKILL.md); revisar [guía técnica](../../references/ARQUITECTURA_WEB_GUIA.md) y [literatura de diseño UX](../../references/FUNDAMENTOS_DISENO_LITERATURA.md).
+- Identificar qué criterio proviene de una norma técnica (WCAG 2.2), una heurística de autor (Norman/Nielsen), un método de arquitectura de información, una guía oficial (GOV.UK/Google) o un video SB. No darles idéntico peso.
+- Definir brief, usuario/tareas, sitemap y rutas, diseño de información, decisión de renderizado, módulos/datos, CTA y requisitos de calidad antes del primer componente importante.
+- Aplicar señales claras, estados visibles, recuperación de errores y reconocimiento sobre memorización; jerarquía editorial, tipografía responsive, tokens visuales y formularios comprensibles.
+- Probar al menos un recorrido funcional real; no afirmar SEO, cumplimiento AA, conversión o estabilidad basándose únicamente en mocks, análisis estáticos o Lighthouse.
+
 ## Inicio
 Pregunta qué vende el cliente, a quién, qué debe entenderse en tres segundos, cuál es la acción principal, qué contenidos/activos tiene y cómo mantendrá la web. Elegir stack según contexto, no por moda.
 
