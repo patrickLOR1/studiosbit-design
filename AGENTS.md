@@ -2,7 +2,11 @@
 
 Este repositorio es una biblioteca de **conocimiento y skills**, no el sitio productivo de Studios.Bit.
 
+**Ruta prioritaria v1.1 para nuevos proyectos:** usar [Director de proyecto](skills/director-proyecto/SKILL.md) para clasificar alcance/riesgo, coordinar especialistas y documentar decisiones, y [BitProof](skills/bitproof-qa/SKILL.md) para verificar resultados. Leer [método](references/METODO_STUDIOSBIT.md), [revisión de literatura](references/LITERATURA_PROFUNDA_2026.md) y [gates](references/BITPROOF_GATES.md) por pertinencia, sin cargar toda la biblioteca a cada prompt.
+
 Al recibir un brief, escoge la(s) skill(s) pertinente(s):
+- Dirección y orquestación: skills/director-proyecto/SKILL.md.
+- QA, evidencia y release: skills/bitproof-qa/SKILL.md.
 - Arquitectura y decisiones transversales: `skills/arquitectura-web/SKILL.md`.
 - Ciberseguridad, datos sensibles, acceso, sesiones, secretos y dependencias: `skills/ciberseguridad-web/SKILL.md`.
 - Frontend, semántica, estado, rendimiento, responsive y accesibilidad: `skills/frontend-ingenieria/SKILL.md`.
@@ -25,3 +29,11 @@ Lee solo las referencias necesarias por problema en `references/INDICE_POR_CATEG
 - Diferenciar fuentes normativas (RFC/WCAG), guías y propuestas; verificar versiones antes de cada implementación. **No hay arquitectura sin fallos garantizada**. Un prototipo animado no demuestra funcionalidad.
 - No cambiar el repositorio `Studios.Bit` (landing) ni ejecutar despliegues a menos que el usuario los solicite expresamente.
 - Menciona qué se verificó y qué queda como propuesta. No inventes datos.
+
+## Regla verificable de entrega (v1.1)
+- Separar investigación, propuesta, implementación real y resultados medidos; etiquetar el estado de cada uno.
+- Para UI revisar [UX/CRO](references/UX_INVESTIGACION_CRO.md), [video interactivo](references/VIDEO_INTERACCION_SIGNATURE.md) y [SEO/AEO](references/SEO_AEO_MEDICION.md) solo si aplican.
+- Para sistemas persistentes revisar [escalabilidad/operación](references/ESCALABILIDAD_OPERACION.md), amenazas, permisos, migraciones y restore. Para autogestión revisar [CMS y handoff](references/CMS_HANDOFF.md).
+- Documentar pruebas ejecutadas, entorno, responsable, evidencia, defectos conocidos y decisión humana de release; usar [plantilla BitProof](templates/RELEASE_EVIDENCIAS.md).
+- Un gate pending o fail bloqueante es NO-GO; un validador de metadatos NO demuestra seguridad del producto.
+- No copiar obras de terceros; no usar datos privados de clientes en ejemplos públicos; no escribir secretos. No desplegar sin autorización.

@@ -1,0 +1,13 @@
+{
+  "project": "PROYECTO-DE-EJEMPLO-NO-VALIDADO",
+  "environment": "preview",
+  "risk": "S",
+  "checks": [
+    {"id": "UX-01", "status": "pending", "blocker": true, "note": "Prueba de tarea no ejecutada"},
+    {"id": "UI-01", "status": "pending", "blocker": true, "note": "Responsive y teclado no verificados"},
+    {"id": "A11Y-01", "status": "pending", "blocker": true, "note": "Auditorías aún no ejecutadas"},
+    {"id": "PERF-01", "status": "pending", "blocker": true, "note": "Sin medición de laboratorio"},
+    {"id": "SEC-01", "status": "pending", "blocker": true, "note": "Sin revisión de secretos/dependencias"},
+    {"id": "OPS-01", "status": "pending", "blocker": true, "note": "Sin rollback ni responsable verificados"}
+  ]
+}

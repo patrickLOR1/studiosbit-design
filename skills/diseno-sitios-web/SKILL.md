@@ -62,3 +62,7 @@ Consulta [índice general](../../references/INDICE_POR_CATEGORIA.md), [SB01–10
 
 ### Activación con Codex
 Cuando pidan "diseñar un sitio", devolver brief asumido, enfoque visual, secciones, patrones SB-xx, wireframe, decisiones de accesibilidad y ejecución comprobable. Jamás reutilizar literalmente el código/diseño del ejemplo.
+
+## Complemento v1.1 — experiencia excepcional comprobable
+
+Desarrollar hipótesis desde [investigación UX/CRO](../../references/UX_INVESTIGACION_CRO.md), construir [video integrado a la narrativa](../../references/VIDEO_INTERACCION_SIGNATURE.md) sin autoplay invasivo ni impacto innecesario de LCP, diseñar [SEO/AEO honesto](../../references/SEO_AEO_MEDICION.md), [CMS comprensible para cliente](../../references/CMS_HANDOFF.md) y revisar con [BitProof](../bitproof-qa/SKILL.md). El [director de proyecto](../director-proyecto/SKILL.md) coordina alcance, riesgos, evidencia y handoff; usar el [mapa de literatura](../../references/LITERATURA_PROFUNDA_2026.md) sin convertir preferencias en leyes de diseño.
