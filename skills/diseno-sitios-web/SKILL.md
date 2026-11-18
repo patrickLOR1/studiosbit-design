@@ -35,6 +35,14 @@ Pregunta qué vende el cliente, a quién, qué debe entenderse en tres segundos,
 - **SB-53:** video inmersivo con poster, controles, legibilidad, carga progresiva y alternativa inmóvil.
 - Fichas completas: [SB-42 a SB-54](../../references/SB42_SB54.md); no copiar interfaces, métricas ni marcas ajenas.
 
+## Refuerzo SB-55 a SB-61 (18-nov-2026)
+- **SB-55:** auditoría anti-plantillas por escala, jerarquía, radios, densidad y CTA, con justificación específica para el cliente; no asumir que «menos tarjetas» siempre es mejor.
+- **SB-56:** estados de botones, errores y acordeones con microfeedback contenido, sin bloquear controles ni sacrificar accesibilidad.
+- **SB-57:** paleta semántica de roles (base, neutro, acento), contrastes y estados; identidad exclusiva del brief.
+- **SB-58:** dashboards con unidades, período, fuente y estados de datos, sin números ficticios confundidos con telemetría real.
+- **SB-61:** prompts de visualización solo como brief creativo; prototipo funcional y QA siguen siendo obligatorios.
+- Fichas: [SB-55 a SB-61](../../references/SB55_SB61.md).
+
 ## QA obligatoria
 320, 390, 768, 1024 y 1440 px; teclado y foco, form validation, errores, menú, scroll/anclas, reduced-motion, rendimiento móvil LCP/CLS/INP cuando existan datos, SEO técnico, seguridad, TLS y rastreabilidad. Diferenciar emulación de dispositivo real.
 
@@ -42,7 +50,7 @@ Pregunta qué vende el cliente, a quién, qué debe entenderse en tres segundos,
 Mapa de sitio, wireframe, componentes, propuesta visual, estados ES/EN cuando aplique, CTA y funnel, acceso/guía de CMS, pruebas y límites. Proyectos ficticios rotulados **Proyecto conceptual**.
 
 ## Catálogo
-Consulta [índice general](../../references/INDICE_POR_CATEGORIA.md), [SB01–10](../../references/REFERENCIAS.md), [SB11–30](../../references/LOTE_2026-11-06_SB11_SB30.md) y [SB31–35](../../references/SB31_SB35.md), [SB36–41](../../references/SB36_SB41.md) y [SB42–54](../../references/SB42_SB54.md). Prioriza SB-01,03,05,06,07,08,09,10,11,12,13,15,16,17,19,24,29,30,31,33,35.
+Consulta [índice general](../../references/INDICE_POR_CATEGORIA.md), [SB01–10](../../references/REFERENCIAS.md), [SB11–30](../../references/LOTE_2026-11-06_SB11_SB30.md) y [SB31–35](../../references/SB31_SB35.md), [SB36–41](../../references/SB36_SB41.md) y [SB42–54](../../references/SB42_SB54.md) y [SB55–61](../../references/SB55_SB61.md). Prioriza SB-01,03,05,06,07,08,09,10,11,12,13,15,16,17,19,24,29,30,31,33,35.
 
 ### Activación con Codex
 Cuando pidan "diseñar un sitio", devolver brief asumido, enfoque visual, secciones, patrones SB-xx, wireframe, decisiones de accesibilidad y ejecución comprobable. Jamás reutilizar literalmente el código/diseño del ejemplo.
