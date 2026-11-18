@@ -24,6 +24,12 @@ Usa animación para orientar, explicar o dar feedback; evita motion decorativo s
 - Prueba negativa: cambios de tab consecutivos, salida de viewport, pantalla pequeña, sin JS, zoom y dispositivo de baja potencia; no aceptar motion que produzca jank o bloquee CTA.
 - Fichas [SB-36 a SB-41](../../references/SB36_SB41.md).
 
+## Nuevas referencias SB-44 / SB-49 / SB-53 (18-nov-2026)
+- **SB-44:** transiciones coherentes entre estados reales, incluido vacío/carga/error; una demo no equivale a funcionalidad probada.
+- **SB-49:** feedback de progreso útil, sin rachas coercitivas ni animaciones que capturen atención en contra de la voluntad del usuario.
+- **SB-53:** video narrativo integrado con poster, pausa, contraste estable, reduced-motion, fallback estático y medición de carga móvil.
+- Fichas: [SB-42 a SB-54](../../references/SB42_SB54.md).
+
 ## Implementación
 Preferir CSS transform y opacity; considerar GSAP/ScrollTrigger y Lenis solo cuando la complejidad lo justifique, sincronizando refresh y cleanup. Hacer lazy initialization y pausar trabajo fuera de viewport; medir TBT/INP, CLS y long tasks. Móvil y reduced-motion no son opcionales.
 
