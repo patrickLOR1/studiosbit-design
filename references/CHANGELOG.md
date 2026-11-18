@@ -1,5 +1,14 @@
 # Evolución de la biblioteca
 
+## v1.1 — Investigación transversal, dirección y evidencia (2026-11-18)
+- **12 skills:** agregadas director-proyecto (orquestación de ocho fases) y bitproof-qa (gates y reporte transparente), sin quitar ninguna de las 10 existentes.
+- Revisión crítica de fuentes primarias W3C, ISO, OWASP, NIST, IETF, Google, PostgreSQL, Microsoft Research, SRE, AWS y Playwright, explicitando fecha, alcance y límites; no se presenta como revisión sistemática.
+- Guías separadas: método, UX/CRO e investigación, video integrado/accesible, SEO/AEO honesto, arquitectura escalable, CMS/handoff, QA y evaluación periódica de skills.
+- Plantillas para brief, ADR, QA, evidencia de release, experimento, video hero y handoff.
+- Instalador conservador Codex; tests unitarios; CI de integridad de enlaces y estructura. Ejemplo BitProof deliberadamente NO-GO hasta pruebas reales.
+- Preservadas las 61 fichas SB; sin videos de terceros, credenciales, cambios de precios, despliegues ni modificaciones a producción.
+
+
 ## v1.0 — Ingeniería web, seguridad y escalabilidad (2026-11-18)
 - Agregadas cuatro skills de Codex: ciberseguridad web, frontend, backend y bases de datos (**10 skills** en total; las **61 referencias SB** se conservan).
 - Incorporadas cuatro guías con fuentes oficiales y literatura técnica: OWASP Top 10:2025/ASVS 5.0.0, NIST SSDF 1.1 final (1.2 borrador), OAuth RFC 9700/10017, WCAG 2.2, Core Web Vitals, HTTP RFC 9110/9457, OpenAPI, Builders' Library, Google SRE, OpenTelemetry y PostgreSQL 18.

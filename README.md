@@ -1,6 +1,6 @@
 # Studios.Bit Design — Biblioteca creativa para Codex
 
-**Versión 1.0 · 61 referencias audiovisuales (SB-01 a SB-61) · 10 skills especializadas + literatura, arquitectura e ingeniería web.**
+**Versión 1.1 · 61 referencias audiovisuales (SB-01 a SB-61) · 12 skills especializadas + investigación UX, metodología, arquitectura, seguridad y verificación.**
 
 Repositorio independiente de **Studios.Bit** para diseño de sitios web, edición y diseño de video, microinteracciones, identidad visual y estrategia de contenido. La biblioteca se utiliza para planear y producir trabajo original de clientes **sin reutilizar literalmente obras de terceros**. No es la landing ni sustituye el brief del cliente.
 
@@ -8,6 +8,8 @@ Repositorio independiente de **Studios.Bit** para diseño de sitios web, edició
 
 | Necesitas | Skill de Codex | Contenidos |
 |---|---|---|
+| Direccionar un proyecto de principio a fin | [Director de proyecto](skills/director-proyecto/SKILL.md) | Brief, investigación, decisiones, especialidades, validación y handoff |
+| Verificar entregables sin afirmar pruebas inexistentes | [BitProof / QA](skills/bitproof-qa/SKILL.md) | Gates por riesgo, evidencia, reporte y GO/NO-GO |
 | Arquitectura web, stack, límites, despliegue y decisiones | [Arquitectura web](skills/arquitectura-web/SKILL.md) | Requisitos, límites, decisiones técnicas y QA antes de construir |
 | Autenticación, permisos, amenazas, secretos, seguridad | [Ciberseguridad web](skills/ciberseguridad-web/SKILL.md) | OWASP ASVS/Top 10, NIST SSDF, modelo de amenazas y pruebas negativas |
 | Componentes, responsive, accesibilidad, rendimiento | [Frontend](skills/frontend-ingenieria/SKILL.md) | WCAG, Core Web Vitals, estado, formularios y pruebas |
@@ -24,6 +26,14 @@ Repositorio independiente de **Studios.Bit** para diseño de sitios web, edició
 Consulta el [Índice por categorías](references/INDICE_POR_CATEGORIA.md), las [fichas SB-31 a SB-35](references/SB31_SB35.md) y las [fichas SB-36 a SB-41](references/SB36_SB41.md) y las [fichas SB-42 a SB-54](references/SB42_SB54.md) y [SB-55 a SB-61](references/SB55_SB61.md). Los análisis históricos están en [SB-01–SB-10](references/REFERENCIAS.md) y [SB-11–SB-30](references/LOTE_2026-11-06_SB11_SB30.md); [contenido y formatos](references/CONTENIDO_Y_FORMATOS.md).
 
 **Para usar en un nuevo proyecto:** ver [Instalación en Codex](docs/INSTALACION_CODEX.md). Estas skills no se instalan automáticamente en los demás repositorios. El archivo [AGENTS.md](AGENTS.md) orienta su selección cuando se trabaja dentro de esta biblioteca.
+
+## Método Studios.Bit v1.1 — investigación → implementación → evidencia
+
+Comienza cualquier proyecto significativo con la [skill de dirección de proyecto](skills/director-proyecto/SKILL.md). Combina [metodología de ocho fases](references/METODO_STUDIOSBIT.md), [literatura crítica y fuentes originales](references/LITERATURA_PROFUNDA_2026.md), [UX y CRO](references/UX_INVESTIGACION_CRO.md), [video interactivo integrado](references/VIDEO_INTERACCION_SIGNATURE.md), [SEO/AEO y analítica](references/SEO_AEO_MEDICION.md), [ingeniería para escalar](references/ESCALABILIDAD_OPERACION.md) y [CMS fácil de usar](references/CMS_HANDOFF.md). Para lanzar, consulta [BitProof](references/BITPROOF_GATES.md) y la [skill de QA](skills/bitproof-qa/SKILL.md); prueba la biblioteca con [evaluación de skills](references/EVALUACION_SKILLS.md).
+
+Plantillas reutilizables: [brief](templates/BRIEF_PROYECTO.md), [ADR](templates/ADR.md), [validación](templates/PLAN_VALIDACION.md), [evidencias de release](templates/RELEASE_EVIDENCIAS.md), [handoff al cliente](templates/HANDOFF_CLIENTE.md), [experimento A/B](templates/EXPERIMENTO.md) y [guion de video hero](templates/VIDEO_HERO.md).
+
+Herramientas locales: usar los comandos python3 scripts/repo_quality.py y python3 -m unittest discover -s tests -v para metadatos y estructura. El ejemplo BitProof debe producir NO-GO porque no documenta pruebas reales. CI de esta biblioteca valida documentación, nunca sitios productivos.
 
 ## Cómo agregamos referencias
 

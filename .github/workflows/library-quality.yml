@@ -1,0 +1,28 @@
+name: Studios.Bit library quality
+
+on:
+  push:
+    branches: [main, 'codex/**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-library:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Syntax-check tooling
+        run: python3 -m compileall -q scripts tests
+      - name: Test tooling
+        run: python3 -m unittest discover -s tests -v
+      - name: Check reference integrity and skill structure
+        run: python3 scripts/repo_quality.py --root .
+
+# Only checks the knowledge repository; client app tests belong in each app's CI.

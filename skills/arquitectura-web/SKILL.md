@@ -61,3 +61,7 @@ No aplicar mecánicamente todas las capas: una landing simple puede prescindir d
 **Después de construir (si el usuario autoriza desarrollo):** archivos y rutas implementados, pruebas reproducibles con resultados, capturas/mediciones reales, decisiones y limitaciones, pasos de mantenimiento y propuesta de despliegue (no despliegue automático).
 
 **Regla de evidencia:** una heurística de Nielsen o un libro no es una certificación; WCAG/estándares exigen verificación; un mockup no prueba un backend; un video de referencia SB no demuestra resultados de terceros.
+
+## Complemento v1.1 — calidad operativa y evidencia
+
+Usar [método de dirección](../../references/METODO_STUDIOSBIT.md) y [literatura primaria](../../references/LITERATURA_PROFUNDA_2026.md) para dimensionar decisiones; [arquitectura operativa](../../references/ESCALABILIDAD_OPERACION.md) para límites, SLO, contingencias, costos y datos; [BitProof](../bitproof-qa/SKILL.md) para gates según riesgo. Coordinar desde [director-proyecto](../director-proyecto/SKILL.md); no trasladar automáticamente complejidad de un SaaS a una landing estática.
