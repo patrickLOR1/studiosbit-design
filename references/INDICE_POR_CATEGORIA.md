@@ -15,6 +15,16 @@ Los códigos SB identifican **referencias audiovisuales de terceros**, no entreg
 - [Arquitectura web: principios, estructura, seguridad y documentación](ARQUITECTURA_WEB_GUIA.md) — Parnas, Fielding, W3C, SEI, C4, arc42, OWASP, ISO y Twelve-Factor.
 - [Skill de arquitectura web](../skills/arquitectura-web/SKILL.md) — aplicación según tipo y tamaño del nuevo proyecto.
 
+## Ingeniería web y escalabilidad (sin códigos SB)
+| Disciplina | Skill | Guía con bibliografía | Gate de calidad |
+|---|---|---|---|
+| Ciberseguridad | [Security](../skills/ciberseguridad-web/SKILL.md) | [OWASP, NIST, OAuth y pruebas](INGENIERIA_CIBERSEGURIDAD.md) | Permisos, secretos, entradas y pruebas negativas |
+| Frontend | [Frontend](../skills/frontend-ingenieria/SKILL.md) | [W3C, web.dev, React y MDN](INGENIERIA_FRONTEND.md) | Navegación accesible, estados y rendimiento |
+| Backend | [Backend](../skills/backend-ingenieria/SKILL.md) | [RFC HTTP, OpenAPI, AWS y SRE](INGENIERIA_BACKEND.md) | Contratos, idempotencia, fallos y observabilidad |
+| Bases de datos | [DB](../skills/bases-de-datos/SKILL.md) | [PostgreSQL, transacciones y PITR](INGENIERIA_BASES_DATOS.md) | Integridad, migraciones, aislamiento y recuperación |
+
+Son estándares/guías técnicas, **no** material audiovisual. Se activan según los riesgos de cada producto, sin agregar complejidad innecesaria.
+
 ## Dónde leer las fichas
 - [SB-01 a SB-10](REFERENCIAS.md) — referencias iniciales.
 - [SB-11 a SB-30](LOTE_2026-11-06_SB11_SB30.md) — veinte referencias adicionales.

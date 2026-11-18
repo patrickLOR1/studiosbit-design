@@ -1,6 +1,6 @@
 # Studios.Bit Design — Biblioteca creativa para Codex
 
-**Versión 0.9 · 61 referencias audiovisuales (SB-01 a SB-61) · 6 skills especializadas + literatura y arquitectura web.**
+**Versión 1.0 · 61 referencias audiovisuales (SB-01 a SB-61) · 10 skills especializadas + literatura, arquitectura e ingeniería web.**
 
 Repositorio independiente de **Studios.Bit** para diseño de sitios web, edición y diseño de video, microinteracciones, identidad visual y estrategia de contenido. La biblioteca se utiliza para planear y producir trabajo original de clientes **sin reutilizar literalmente obras de terceros**. No es la landing ni sustituye el brief del cliente.
 
@@ -8,14 +8,18 @@ Repositorio independiente de **Studios.Bit** para diseño de sitios web, edició
 
 | Necesitas | Skill de Codex | Contenidos |
 |---|---|---|
-| Arquitectura web, stack, APIs, datos, seguridad, rendimientos, despliegue | [Arquitectura web](skills/arquitectura-web/SKILL.md) | Requisitos, límites, decisiones técnicas y QA antes de construir |
+| Arquitectura web, stack, límites, despliegue y decisiones | [Arquitectura web](skills/arquitectura-web/SKILL.md) | Requisitos, límites, decisiones técnicas y QA antes de construir |
+| Autenticación, permisos, amenazas, secretos, seguridad | [Ciberseguridad web](skills/ciberseguridad-web/SKILL.md) | OWASP ASVS/Top 10, NIST SSDF, modelo de amenazas y pruebas negativas |
+| Componentes, responsive, accesibilidad, rendimiento | [Frontend](skills/frontend-ingenieria/SKILL.md) | WCAG, Core Web Vitals, estado, formularios y pruebas |
+| APIs, servicios, webhooks, fiabilidad, observabilidad | [Backend](skills/backend-ingenieria/SKILL.md) | RFC HTTP, OpenAPI, reintentos, SLO y pruebas de carga |
+| Esquemas, SQL, migraciones, índices y recuperación | [Bases de datos](skills/bases-de-datos/SKILL.md) | Integridad, concurrencia, Postgres, backups y restauración |
 | Landing, sitio corporativo, CMS, UI/UX, responsive, SEO técnico | [Diseño de sitios web](skills/diseno-sitios-web/SKILL.md) | Estructura, diseño, prototipos, conversión y QA |
 | Reels, TikTok, edición, motion de video, guion, carruseles | [Diseño de videos](skills/diseno-videos/SKILL.md) | Ganchos, secuencias, ritmo, subtítulos, formatos |
 | Navegaciones animadas, glow, scroll, GSAP, efectos | [Motion e interacciones](skills/motion-interacciones/SKILL.md) | Timing, accesibilidad y performance |
 | Branding, tipografía, paletas, dirección de arte | [Identidad visual](skills/identidad-visual/SKILL.md) | Sistemas de marca y adaptación a cada cliente |
 | Marketing de contenidos, posicionamiento, autoridad y procesos | [Estrategia de contenido](skills/estrategia-contenido/SKILL.md) | Pilares editoriales, evidencias, conversión |
  
-**Inicio recomendado para todo proyecto web:** combinar [Arquitectura web](skills/arquitectura-web/SKILL.md) + [Diseño de sitios](skills/diseno-sitios-web/SKILL.md). Las decisiones se basan en [literatura y fundamentos UX](references/FUNDAMENTOS_DISENO_LITERATURA.md) y en la [guía arquitectónica](references/ARQUITECTURA_WEB_GUIA.md). Los videos SB inspiran soluciones, pero no sustituyen requisitos, estándares ni pruebas.
+**Inicio recomendado para todo proyecto web:** combinar [Arquitectura web](skills/arquitectura-web/SKILL.md) + [Diseño de sitios](skills/diseno-sitios-web/SKILL.md). Las decisiones se basan en [literatura y fundamentos UX](references/FUNDAMENTOS_DISENO_LITERATURA.md), la [guía arquitectónica](references/ARQUITECTURA_WEB_GUIA.md), y cuatro guías documentadas: [seguridad](references/INGENIERIA_CIBERSEGURIDAD.md), [frontend](references/INGENIERIA_FRONTEND.md), [backend](references/INGENIERIA_BACKEND.md), [bases de datos](references/INGENIERIA_BASES_DATOS.md). Activar skills de ingeniería según alcance: landing estática no necesita obligatoriamente backend o BD. Los videos SB inspiran soluciones, pero no sustituyen requisitos, estándares ni pruebas.
 
 Consulta el [Índice por categorías](references/INDICE_POR_CATEGORIA.md), las [fichas SB-31 a SB-35](references/SB31_SB35.md) y las [fichas SB-36 a SB-41](references/SB36_SB41.md) y las [fichas SB-42 a SB-54](references/SB42_SB54.md) y [SB-55 a SB-61](references/SB55_SB61.md). Los análisis históricos están en [SB-01–SB-10](references/REFERENCIAS.md) y [SB-11–SB-30](references/LOTE_2026-11-06_SB11_SB30.md); [contenido y formatos](references/CONTENIDO_Y_FORMATOS.md).
 

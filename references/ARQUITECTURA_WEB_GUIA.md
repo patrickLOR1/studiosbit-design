@@ -32,6 +32,34 @@
 
 Las ideas marcadas como «política de trabajo Studios.Bit» abajo son **decisiones operativas nuestras**, no reglas literales prescritas por una norma.
 
+## Marco transversal de ingeniería (actualización v1.0)
+
+Las guías siguientes complementan, sin sustituir, los fundamentos A01–A13:
+
+| Especialidad | Literatura verificada a 2026-11-18 | Decisión + gate |
+|---|---|---|
+| [Ciberseguridad](INGENIERIA_CIBERSEGURIDAD.md) | OWASP Top 10:2025, ASVS 5.0.0, NIST SSDF 1.1 final (1.2 borrador), OAuth RFC 9700/10017 | Modelo de amenazas; acceso por objeto/tenant, secretos y pruebas negativas |
+| [Frontend](INGENIERIA_FRONTEND.md) | W3C WCAG 2.2, WAI APG, web.dev CWV, MDN, React si aplica | UX íntegra; teclado/lector, errores y rendimiento p75 |
+| [Backend](INGENIERIA_BACKEND.md) | RFC 9110, RFC 9457, OpenAPI, AWS Builders' Library, OpenTelemetry, Google SRE | Contratos, idempotencia, timeouts, observabilidad, carga medida |
+| [Bases de datos](INGENIERIA_BASES_DATOS.md) | PostgreSQL 18: constraints, transacciones, índices, EXPLAIN y PITR | Integridad, aislamiento, migraciones, recuperación demostrada |
+
+**Reglas de adopción:**
+1. Landing estática → arquitectura + diseño + frontend (si se escribe UI); controles de seguridad aplicables al hosting, scripts y formularios; no introducir DB ni API artificial.
+2. CMS con editores → además permisos, sesiones, cambios editoriales y políticas de datos según proveedor.
+3. App con usuarios y datos → las cuatro áreas de ingeniería, con ownership de controles que cruzan capas (p. ej. frontend no sustituye autorización server-side).
+4. Múltiples tenants, pagos o sistemas industriales → modelado de amenazas y fallos específicos, límites de confianza y evidencia antes del go-live. Integración industrial de solo lectura por defecto.
+5. Siempre separar **estándar publicado**, guía, heurística, decisión local y evidencia empírica; no afirmar que cumplir uno sustituye pruebas del resto.
+
+### Gates de release por escenarios
+- **Seguridad:** sin exposición de credenciales, permisos entre tenants, inyección o mutation sin autorización.
+- **Frontend:** recorrido accesible y resistente a red lenta; métricas de campo cuando existan; imágenes/video no bloquean CTA.
+- **Backend:** timeout y reintentos seguros, contratos de error y operaciones idempotentes cuando haya riesgo de duplicación.
+- **Datos:** esquema con integridad, migraciones probadas, backup y restauración ensayada con RPO/RTO definidos si los datos importan.
+- **Operaciones:** CI verde + pruebas reproducibles; preview/QA separado; runbook, monitoreo, responsable y rollback proporcional.
+- **Scale:** antes de prometer escalabilidad fijar hipótesis de concurrencia, perfil de carga, SLI/SLO, límites de infraestructura y coste; medir y corregir cuello de botella.
+
+Ningún gate se declara aprobado sin prueba ejecutada; lo no medido queda **pendiente**, no «sin problemas».
+
 ## 1. Selección de arquitectura según el problema
 
 Antes de escoger librerías/servicios, llenar la matriz:

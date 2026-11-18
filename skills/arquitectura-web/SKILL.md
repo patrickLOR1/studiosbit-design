@@ -18,6 +18,15 @@ description: Planear y revisar la arquitectura de nuevos sitios web, landing pag
 7. **Implementación controlada.** Construir módulos pequeños que encapsulen cambios, validación del lado servidor para entradas persistentes, roles por recurso, secrets externos, estados de error y pruebas por flujo. Mantener prototipos/datos falsos marcados como tales.
 8. **Verificación y entrega.** Probar recorrido completo en móvil/desktop, teclados, zoom, accesibilidad manual y automatizada, unit/integración/E2E cuando aplique, fallos de red, permisos, SEO, rendimiento y reversión. No declarar «listo para producción» sin evidencias.
 
+## Activación de ingeniería especializada (según alcance)
+
+- **Seguridad:** [skill ciberseguridad](../ciberseguridad-web/SKILL.md) + [guía OWASP/NIST](../../references/INGENIERIA_CIBERSEGURIDAD.md) si existe superficie web, datos, usuarios o terceros. Modelo de amenazas, matriz permisos, pruebas negativas, protección de secretos.
+- **Frontend:** [skill frontend](../frontend-ingenieria/SKILL.md) + [guía W3C/Core Web Vitals](../../references/INGENIERIA_FRONTEND.md) si se implementa UI. Medir y probar rutas, estados, accesibilidad y performance.
+- **Backend:** [skill backend](../backend-ingenieria/SKILL.md) + [guía RFC/OpenAPI/SRE](../../references/INGENIERIA_BACKEND.md) si hay servidor, API, webhook o tareas. Contratos, autenticación/autorización, reintentos seguros, observabilidad.
+- **Bases de datos:** [skill bases de datos](../bases-de-datos/SKILL.md) + [guía PostgreSQL/concurrencia/PITR](../../references/INGENIERIA_BASES_DATOS.md) si hay persistencia. Esquema, índices basados en consultas, migraciones, aislamiento y pruebas de restore.
+
+No aplicar mecánicamente todas las capas: una landing simple puede prescindir de backend y BD. En un SaaS con usuarios y persistencia sí se requieren los cuatro análisis. No hay escalabilidad ni ausencia de vulnerabilidades garantizadas por plantillas.
+
 ## Gate mínimo de arquitectura (presentar antes de codificar)
 
 | Pregunta | Salida mínima |

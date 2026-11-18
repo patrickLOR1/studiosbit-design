@@ -6,6 +6,8 @@ Las skills están separadas en `skills/<nombre>/SKILL.md`; la existencia del rep
 
 ## Selección inicial para proyectos nuevos
 - Si el trabajo es **web** (landing, CMS, cotizador, dashboard o aplicación), cargar **arquitectura web + diseño de sitios** antes de codificar.
+- Al implementar UI, cargar **frontend**; al manejar usuarios, integraciones o datos, cargar **ciberseguridad**; si hay endpoints o jobs, **backend**; si existe almacenamiento persistente, **bases de datos**. Una landing estática no necesita backend/DB artificiales.
+- Consultar los cuatro manuales de `references/INGENIERIA_*.md`, según lo que realmente exista, y exigir gates específicos (acceso, rendimiento, contratos, migraciones/restore).
 - Leer referencias/FUNDAMENTOS_DISENO_LITERATURA.md y references/ARQUITECTURA_WEB_GUIA.md; escoger estándares y criterios adecuados al contexto.
 - Para tareas exclusivamente de video, branding o redes, usar la skill respectiva sin exigir un proyecto de arquitectura.
 
@@ -31,13 +33,16 @@ Para proyectos web nuevos, activar juntas .agents/skills/arquitectura-web/SKILL.
  .agents/references/FUNDAMENTOS_DISENO_LITERATURA.md y
  .agents/references/ARQUITECTURA_WEB_GUIA.md, y presentar sitemap, arquitectura
  proporcional, datos e integraciones, seguridad, requisitos y plan de QA.
+ Activar frontend-ingenieria para UI, ciberseguridad-web si hay superficie web
+ y datos, backend-ingenieria para servidores y bases-de-datos para persistencia.
+ Consultar .agents/references/INGENIERIA_*.md según el caso; no inventar servicios.
  Para video/branding usar la skill pertinente. Respetar el brief y la marca.
  No copiar obras ni desplegar sin permiso.
 ```
 
 ## Método
 1. Leer brief y restricciones.
-2. Elegir una skill por entregable principal y como máximo otra complementaria.
+2. Elegir una skill principal y otras técnicas pertinentes por componente/riesgo; el límite de una complementaria aplica a referencias creativas, no omite seguridad ni QA.
 3. Consultar índice y fichas SB pertinentes.
 4. Presentar dirección y guion/prototipo, con justificación y riesgos.
 5. Implementar dentro del proyecto del cliente tras autorización.
