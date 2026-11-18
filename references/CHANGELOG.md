@@ -1,7 +1,9 @@
 # Evolución de la biblioteca
 
-## v0.8 — Trece referencias multidisciplinares (2026-11-18)
+## v0.8 — Veinte referencias multidisciplinares (2026-11-18)
 - Agregadas SB-42 a SB-54 tras muestreo visual de trece videos: automatización editorial, UI con IA, demos de apps, ganchos, galerías, experimentación de Reels, sistemas visuales, retención ética, formularios, prototipos físicos, comercio electrónico, portafolios audiovisuales y paletas.
+- Documentación: [fichas SB-42 a SB-54](SB42_SB54.md) y [SB-55 a SB-61](SB55_SB61.md).
+- Agregadas SB-55 a SB-61 tras un segundo lote de siete videos únicos: auditoría UI anti-plantillas, microinteracciones con propósito, paletas, lectura de dashboards, proceso audiovisual, demostración de producto y exploración con prompts. Seis subidas eran copias SHA-256 de otras referencias y no se contaron dos veces.
 - Actualizadas las cinco skills, el índice y las propuestas de contenido con accesibilidad, privacidad, licencias, revisión humana y QA.
 - Ningún MP4 ni imagen de terceros incorporado; sin afirmaciones de resultados no verificadas, sin cambios en producción o precios.
 
