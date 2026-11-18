@@ -26,6 +26,14 @@ description: Guion, dirección, grabación y edición de Reels, TikTok, Shorts y
 - **Regla de producción:** si se graba código, test o dashboard, ocultar claves y datos personales, usar fixtures sintéticos y no afirmar integraciones/impactos no verificados.
 - Consultar [fichas SB-36 a SB-41](../../references/SB36_SB41.md).
 
+## Nuevas referencias SB-42 a SB-54 (18-nov-2026)
+- **SB-42:** edición/automatización como proceso autorizado y revisado: entrada → guion propio → edición → aprobación → programación; nunca publicar automáticamente sin permiso.
+- **SB-45:** gancho visual, verbal y textual complementarios que cumplan una promesa demostrable.
+- **SB-47:** ganchos y formatos de prueba con una hipótesis medible y línea base propia; no copiar cifras de terceros.
+- **SB-51:** demo técnica original que enseñe entrada, procesamiento, salida y limitación sin revelar datos de clientes.
+- **SB-53:** recorrido audiovisual de una web con video integrado y controles; todas las escenas/audio deben ser propios o licenciados.
+- Consultar [SB-42 a SB-54](../../references/SB42_SB54.md). Distinguir afirmación del creador, observación visual y resultado propio.
+
 ## Series originales de Studios.Bit
 - **Bit Audit:** problema observado → corrección conceptual real → por qué mejora UX (sin ridiculizar).
 - **1 Bit de Diseño:** principio → contraste antes/después propio → aplicación.
