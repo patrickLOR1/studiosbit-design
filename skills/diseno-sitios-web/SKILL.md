@@ -17,6 +17,15 @@ Pregunta qué vende el cliente, a quién, qué debe entenderse en tres segundos,
 - Móvil no es una reducción del desktop: ordenar contenido, nav, objetivos táctiles y formularios por prioridad.
 - Si el cliente necesita autogestión, proponer CMS con roles claros, campos simples, preview editorial, mantenimiento y capacitación. No prometer paneles avanzados sin construirlos.
 
+## Nuevos patrones SB-36 / SB-38 / SB-39 / SB-40 / SB-41 (9-nov-2026)
+- **SB-36, narrativa editorial:** seleccionar solo un recurso dominante (gran titular, 3D o tarjetas); orden de lectura y CTA antes del efecto; escenas reversibles y navegación disponible.
+- **SB-38, CMS de autogestión:** definir campos editables, roles mínimos, permisos, preview, publicación, rollback y guía de uso; probar el flujo de cliente antes de ofrecerlo.
+- **SB-39, dirección de arte:** entregar 2–3 territorios de composición, tipografía y color **originales**, contrastados contra el brief, no clonar visuales de terceros.
+- **SB-40, experimentación responsable:** instrumentación con consentimiento, hipótesis y KPI, test A/B con asignación estable, guardrails, revisión humana y rollback; **no** activar personalización ni IA en producción sin autorización.
+- **SB-41, recorridos de integración:** además de QA visual, probar los flujos completos UI → backend → DB y sus fallas; para CMS, login → editar → preview → publicar → comprobar y revertir.
+- Para cada patrón, pedir evidencia: capturas en breakpoints, resultados de pruebas, incidencias y límites **verificados**, nunca inventados.
+- Fichas: [SB-36 a SB-41](../../references/SB36_SB41.md).
+
 ## QA obligatoria
 320, 390, 768, 1024 y 1440 px; teclado y foco, form validation, errores, menú, scroll/anclas, reduced-motion, rendimiento móvil LCP/CLS/INP cuando existan datos, SEO técnico, seguridad, TLS y rastreabilidad. Diferenciar emulación de dispositivo real.
 

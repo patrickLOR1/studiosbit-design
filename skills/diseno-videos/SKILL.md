@@ -16,6 +16,16 @@ description: Guion, dirección, grabación y edición de Reels, TikTok, Shorts y
 6. **Adaptaciones:** vertical 9:16 para Reels/TikTok, títulos dentro de safe areas, legibilidad sin sonido, subtítulos revisados, portada coherente y alternativa carrusel/Facebook.
 7. **Revisión:** retención visual, locución, errores ortográficos, marca, derechos, consentimiento de personas, edición de pantalla con datos privados ocultos, CTA y archivo final.
 
+## Nuevo lote audiovisual SB-36 a SB-41
+- **SB-36:** recorrido de landing por capítulos; mostrar primero la propuesta de valor y después el recurso visual, usando solo diseños propios.
+- **SB-37:** microinteracción de tab bar antes/después en grabación de prototipo propio; explicar feedback y accesibilidad.
+- **SB-38:** demostración de CMS con datos ficticios: editar reseña → vista previa → publicar → verificar.
+- **SB-39:** comparación de tres direcciones visuales para un mismo brief conceptual, argumentando jerarquía y color.
+- **SB-40:** microexplicación de A/B: hipótesis → variante → medición consentida → decisión; resultados solo si son reales.
+- **SB-41:** demostración QA: recorrer un formulario hasta persistencia en una base de pruebas, mostrar error recuperable y validación.
+- **Regla de producción:** si se graba código, test o dashboard, ocultar claves y datos personales, usar fixtures sintéticos y no afirmar integraciones/impactos no verificados.
+- Consultar [fichas SB-36 a SB-41](../../references/SB36_SB41.md).
+
 ## Series originales de Studios.Bit
 - **Bit Audit:** problema observado → corrección conceptual real → por qué mejora UX (sin ridiculizar).
 - **1 Bit de Diseño:** principio → contraste antes/después propio → aplicación.
