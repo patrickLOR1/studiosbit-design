@@ -1,5 +1,12 @@
 # Evolución de la biblioteca
 
+## v1.0 — Ingeniería web, seguridad y escalabilidad (2026-11-18)
+- Agregadas cuatro skills de Codex: ciberseguridad web, frontend, backend y bases de datos (**10 skills** en total; las **61 referencias SB** se conservan).
+- Incorporadas cuatro guías con fuentes oficiales y literatura técnica: OWASP Top 10:2025/ASVS 5.0.0, NIST SSDF 1.1 final (1.2 borrador), OAuth RFC 9700/10017, WCAG 2.2, Core Web Vitals, HTTP RFC 9110/9457, OpenAPI, Builders' Library, Google SRE, OpenTelemetry y PostgreSQL 18.
+- Actualizadas arquitectura, diseño de sitios, índice, AGENTS y guía de instalación para activar reglas por riesgo y exigir evidencia: pruebas negativas, accesibilidad y rendimiento, contratos/timeout/idempotencia, migraciones e integridad/restore.
+- Arquitectura proporcional, sin imponer microservicios o base de datos a landing estática; ningún test se reporta como aprobado sin ejecutarse y ninguna norma se considera certificación automática.
+- Solo documentación y skills en rama de revisión; **sin cambios a producción, precios, clientes, credenciales ni despliegues**.
+
 ## v0.9 — Literatura y arquitectura web para nuevos proyectos (2026-11-18)
 - Incorporada la sexta skill de Codex: **arquitectura web** para landing, sitio con CMS, aplicación transaccional, dashboard y telemetría.
 - Añadidas guías documentadas con fuentes originales y oficiales sobre UX, arquitectura de información, tipografía, responsive, modularidad, APIs, seguridad, accesibilidad, rendimiento y operación.
