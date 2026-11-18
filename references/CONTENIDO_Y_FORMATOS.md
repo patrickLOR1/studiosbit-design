@@ -1,7 +1,7 @@
-# Estudios de contenido — Studios.Bit Creative Direction v0.7
+# Estudios de contenido — Studios.Bit Creative Direction v0.8
 
 ## Objetivo
-Usar **las cuarenta y una referencias SB-01 a SB-41** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
+Usar **las sesenta y una referencias SB-01 a SB-61** como referencias para dos entregables distintos: (a) dirección de diseño de futuros trabajos de clientes; (b) **guion, edición, motion, estructura narrativa y pedagogía** de contenido de Studios.Bit y, si lo aprueba cada cliente, de sus redes sociales.
 
 Estas referencias son materiales de terceros, no muestras del portafolio ni evidencia de clientes, facturación, conversiones o resultados de Studios.Bit. Extraer la **gramática de contenido**, nunca reproducir sus grabaciones, voz, música, marcas, personajes, logos ni composiciones literalmente. Los videos compartidos se revisaron visualmente; sin transcripción de audio verificada, no atribuir declaraciones habladas.
 
@@ -15,7 +15,7 @@ Estas referencias son materiales de terceros, no muestras del portafolio ni evid
 7. **Revisión:** revisar legibilidad sin audio, derechos, accesibilidad, ritmo y CTA. Publicar solo tras aprobación del canal/cliente.
 8. **Aprendizaje:** guardar gancho, formato, hipótesis y métricas comprobables de rendimiento; proponer ajustes sin atribuir causalidad a una sola publicación.
 
-## Qué aprendemos de cada video (30 referencias)
+## Primeras diez referencias
 | Referencia | Patrón de contenido | Pieza original recomendada |
 |---|---|---|
 | SB-01 | Mostrar un resultado editorial a través de una secuencia de páginas | Reel «Un portafolio también puede contar una historia», con demo propia |
@@ -93,6 +93,40 @@ Las veinte fichas del 06-nov están en `LOTE_2026-11-06_SB11_SB30.md`. Cada una 
 | SB-41 | Validación de un flujo real, no solo apariencia | Video mostrando prueba E2E con datos sintéticos desde formulario hasta persistencia y recuperación de error |
 
 **Reglas del lote:** no extraer música, voces, clips, capturas, logos ni código del material original; los videos se inspeccionaron visualmente, sin transcripción de audio verificada. Priorizar evidencias de prototipos propios. Una herramienta mencionada por un tercero no es automáticamente una capacidad que Studios.Bit ofrece.
+
+## Lote SB-42 a SB-54: trece ideas para Studios.Bit (18-nov-2026)
+
+| Ficha | Técnica | Pieza original sugerida |
+|---|---|---|
+| SB-42 | Flujo editorial con revisión | Detrás de cámaras de guion → edición → aprobación |
+| SB-43 | Antiplantilla IA | Antes/después de landing conceptual con jerarquía propia |
+| SB-44 | Demo versus producto | Estados reales de una app: vacío, permiso, error y éxito |
+| SB-45 | Ganchos honestos | Dos aperturas para un mismo consejo de diseño |
+| SB-46 | Curaduría | Tres referencias, tres reglas y un componente original |
+| SB-47 | Hipótesis de retención | Serie de ganchos con resultados propios verificables |
+| SB-48 | Componentes reutilizables | Reglas visuales para Codex y test en móvil |
+| SB-49 | Hábito ético | Progreso opcional de onboarding sin racha coercitiva |
+| SB-50 | Contacto contextual | Comparación de dos rutas de contacto accesibles |
+| SB-51 | Prototipo físico | Señal → procesamiento → resultado → limitación real |
+| SB-52 | Comercio electrónico | Catálogo → variante → carrito → resumen y costes |
+| SB-53 | Web audiovisual | Hero de video propio con poster y pausa |
+| SB-54 | Sistema cromático | Tres paletas justificadas de un brief ficticio |
+
+Estos son **conceptos para probar**, no publicaciones comprometidas ni servicios ya probados. Cada pieza debe tener recursos propios o licenciados, permiso, subtítulos legibles, QA y un CTA honesto. No citar cifras de conversión o viralidad de los videos fuente. Ver [fichas SB-42 a SB-54](SB42_SB54.md).
+
+## Nuevas ideas inspiradas en SB-55 a SB-61
+
+| Referencia | Pieza original propuesta | Evidencia/guardrail |
+|---|---|---|
+| SB-55 | Carrusel educativo: tres decisiones visuales que mejoran una landing ficticia | Comparación propia, accesibilidad, sin clonar |
+| SB-56 | Video de tres microinteracciones con feedback de botón, formulario y acordeón | Captura de componentes propios, reduced-motion |
+| SB-57 | Reel: cómo escoger funciones de color para una marca hipotética | Contraste y tokens, sin copiar paleta fuente |
+| SB-58 | Minidemo de dashboard industrial con números claramente simulados | Período/unidades/estados visibles; no datos inventados como reales |
+| SB-59 | Detrás de cámaras del flujo real de un Reel: brief, producción, revisión y entrega | Recursos propios, sin presentar automatización inexistente |
+| SB-60 | Storyboard «problema → producto → decisión» de software propio | Diferenciar demo, ilustración y evidencia |
+| SB-61 | Tres conceptos web para briefs ficticios con prompts propios y QA | Rótulo «Proyecto conceptual» y enlaces a prototipo solo si funciona |
+
+Los MP4 repetidos se identificaron por hash y no generan códigos adicionales. Ver [fichas SB-55 a SB-61](SB55_SB61.md).
 
 ## Alcance de reutilización
 - Para la **cuenta de Studios.Bit**, usar su identidad aprobada.

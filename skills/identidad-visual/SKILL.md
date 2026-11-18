@@ -22,6 +22,18 @@ Identificar marca, valores, audiencia, competencia, territorio gráfico, tono, u
 - SB-36 puede orientar el tratamiento editorial de una marca, sin adoptar sus escenas, productos o composiciones.
 - Fichas [SB-36 a SB-41](../../references/SB36_SB41.md).
 
+## Nuevos criterios SB-43 / SB-46 / SB-54 (18-nov-2026)
+- **SB-43:** dar dirección editorial a interfaces generadas por IA: escala tipográfica, espaciado, densidad y coherencia con la marca.
+- **SB-46:** analizar galerías externas por patrones, sin copiar identidad ni asumir permisos de uso.
+- **SB-54:** justificar paletas por posicionamiento, accesibilidad y soportes; probar contraste, estados y versiones claro/oscuro.
+- Fichas: [SB-42 a SB-54](../../references/SB42_SB54.md).
+
+## Refuerzo SB-55 / SB-57 / SB-61 (18-nov-2026)
+- **SB-55:** dirección editorial consistente, sin patrones visuales genéricos impuestos por una plantilla.
+- **SB-57:** definir jerarquía de color por función, con tokens semánticos y contraste real; los «tres colores» son una heurística, no regla de marca.
+- **SB-61:** usar prompts como exploración del territorio visual, nunca reproducir obras ni confundir imágenes conceptuales con proyectos entregados.
+- Fichas: [SB-55 a SB-61](../../references/SB55_SB61.md).
+
 ## Referencias
 [Índice](../../references/INDICE_POR_CATEGORIA.md): SB-02,06,07,10,14,15,16,19,23,25,29,34 y otras con aplicación al brief.
 

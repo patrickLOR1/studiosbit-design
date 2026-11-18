@@ -28,5 +28,20 @@ Proponer CMS sencillo, automatización o landing adaptativa como **capacidades p
 - **Contenidos educativos:** usar demostraciones propias; conceptos y datos ficticios siempre rotulados; no atribuir éxito de la herramienta o del autor del video a Studios.Bit.
 - Ver [SB-36 a SB-41](../../references/SB36_SB41.md).
 
+## Aprendizajes SB-42 / SB-45 / SB-47 / SB-50 / SB-51 (18-nov-2026)
+- **SB-42:** flujo editorial y automatizaciones con derechos claros, revisión humana y control de publicación.
+- **SB-45:** ganchos que adelantan un beneficio real y entregan un ejemplo útil sin clickbait.
+- **SB-47:** medir aprendizaje y consultas cualificadas en lugar de asumir viralidad de métricas de terceros.
+- **SB-50:** nunca retirar vías de contacto por una promesa ajena de conversión; experimentar con accesibilidad y datos propios.
+- **SB-51:** autoridad mediante evidencia técnica propia y límites explicitados; distinguir demo, concepto y producto.
+- Fichas: [SB-42 a SB-54](../../references/SB42_SB54.md).
+
+## Refuerzo SB-58 a SB-61 (18-nov-2026)
+- **SB-58:** enseñar por qué un tablero contextualizado resuelve preguntas concretas; no disfrazar ejemplos como resultados.
+- **SB-59:** automatización como propuesta de proceso trazable con permiso, revisión, acceso y medición; no hacer claims sobre bots ajenos.
+- **SB-60:** posicionar el producto con una transformación mostrable, usando demos y evidencia propias y CTA claro.
+- **SB-61:** series de prompts/dirección visual para educación, con casos ficticios claramente rotulados y entregables diferenciados.
+- Fichas: [SB-55 a SB-61](../../references/SB55_SB61.md).
+
 ## Referencias
 [Catálogo por categorías](../../references/INDICE_POR_CATEGORIA.md), [guiones y formatos](../../references/CONTENIDO_Y_FORMATOS.md). Usar SB-04,08,10,11–13,17,21,22,25,27,29,30,33,35; el video fuente no certifica los resultados del presentador.
