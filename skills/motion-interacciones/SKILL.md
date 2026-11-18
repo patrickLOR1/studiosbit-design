@@ -30,6 +30,12 @@ Usa animación para orientar, explicar o dar feedback; evita motion decorativo s
 - **SB-53:** video narrativo integrado con poster, pausa, contraste estable, reduced-motion, fallback estático y medición de carga móvil.
 - Fichas: [SB-42 a SB-54](../../references/SB42_SB54.md).
 
+## SB-56 — Microinteracciones con estado y control
+- Pulsación con escala contenida, error con texto accesible, desplazamiento direccional y expansión de contenido según semántica del componente.
+- Animar transform y opacity si procede; evitar efectos que reorganicen layouts, provoquen CLS, induzcan error o atrapen foco.
+- Definir qué ocurre con toques repetidos, interrupciones, lectores de pantalla y prefers-reduced-motion.
+- Ficha y ejemplos de aplicación: [SB-55 a SB-61](../../references/SB55_SB61.md).
+
 ## Implementación
 Preferir CSS transform y opacity; considerar GSAP/ScrollTrigger y Lenis solo cuando la complejidad lo justifique, sincronizando refresh y cleanup. Hacer lazy initialization y pausar trabajo fuera de viewport; medir TBT/INP, CLS y long tasks. Móvil y reduced-motion no son opcionales.
 
